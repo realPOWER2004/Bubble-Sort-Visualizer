@@ -18,5 +18,7 @@ This a program that demonstrates how the Bubble Sort Algorithm sorts an array.
 - Clone the repository.
 - Install Tkinter library for Python.
 - To run the program on a Windows machine use 'libbubblesort.dll' and for Mac use the 'libbubblesort.so' file in the python file.
+  
   <img width="642" alt="Screenshot 2023-12-29 at 11 01 02 PM" src="https://github.com/realPOWER2004/Bubble-Sort-Visualizer/assets/113462628/2f185297-eedf-43ab-9ca8-6f956fe84e49">
+  
 - Run the 'bubble_sort_visualizer.py' file to start the application.
